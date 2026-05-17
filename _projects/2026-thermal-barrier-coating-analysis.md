@@ -2,7 +2,7 @@
 layout: project
 title: Thermal Barrier Coating Analysis for Turbine Blades
 description: Heat transfer analysis of thermal barrier coatings used to protect turbine blades
-technologies: []
+technologies: 
 image:
 ---
 
