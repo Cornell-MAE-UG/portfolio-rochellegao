@@ -10,4 +10,4 @@ In Heat Transfer, we analyzed the usefulness of thermal barrier coating for turb
 
 This problem was especially meaningful because it demonstrated how fundamental heat transfer concepts are applied to real aerospace engineering problems. Gas turbine engines operate at temperatures that exceed the limits of structural materials, so thermal protection systems are essential for engine performance and durability. Working through this problem helped me understand the importance of material properties, convection, and conduction in engineering design. This knowledge will be useful in my future career in aerospace engineering, where thermal management plays a critical role in propulsion systems, spacecraft, and high-temperature structures.
 
-[View Full Analysis (PDF)]({{ '/_projects/Thermal Barrier Coating Analysis For Turbine Blades.pdf' | relative_url }})
+[View Full Analysis (PDF)]({{ '/assets/thermal-barrier-coating-analysis.pdf' | relative_url }})
