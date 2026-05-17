@@ -2,8 +2,6 @@
 layout: project
 title: Thermal Barrier Coating Analysis for Turbine Blades
 description: Heat transfer analysis of thermal barrier coatings used to protect turbine blades
-technologies: 
-image:
 ---
 
 In Heat Transfer, we analyzed the usefulness of thermal barrier coating for turbine blades. I used thermal resistance networks and one-dimensional heat conduction to determine whether a superalloy turbine blade could be maintained below its maximum allowable temperature under extreme operating conditions. By comparing cases with and without a thermal barrier coating, I calculated heat flux and interface temperatures and showed how adding a thin ceramic coating significantly reduced the blade temperature to a safe level.
